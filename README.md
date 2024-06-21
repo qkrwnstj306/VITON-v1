@@ -4,10 +4,10 @@
 
 - Dataset: VITON-HD dataset
   - Download dataset
-  - Edit code in `dataset.py`: self.data_dir = '../dataset/zalando-hd-resized'
+  - Edit code in `dataset.py`: ```self.data_dir = '../dataset/zalando-hd-resized'```
 - Model weight:
   - Create directory and download parameters of model in directory
-  - Then, edit code in `attention_infernce.py`: ckpt_pth = './weights/attn_loss/epoch=82-step=60424.ckpt'
+  - Then, edit code in `attention_infernce.py`: ```ckpt_pth = './weights/attn_loss/epoch=82-step=60424.ckpt'```
 
 ## Attribution map for generated image
 
