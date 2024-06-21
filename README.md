@@ -2,9 +2,9 @@
 
 - Time-and-Head integrated attribution map for generated image: Attribution map for generated image on validation dataset over time step and attention head
 
-'''
+"""
 python attention_inference.py
-'''
+"""
 
 - Time integrated attribution map: Attribution map for generated image on validation dataset over time
 
