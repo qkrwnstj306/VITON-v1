@@ -1,5 +1,10 @@
 # Manual
 
+## Setting
+
+- Dataset: VITON-HD dataset
+- - You have to edit code in `dataset.py`: self.data_dir = '../dataset/zalando-hd-resized'
+
 ## Attribution map for generated image
 
 - Time-and-Head integrated attribution map: Attribution map for generated image on validation dataset over time step and attention head
