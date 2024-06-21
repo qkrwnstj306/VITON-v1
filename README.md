@@ -3,7 +3,9 @@
 ## Setting
 
 - Dataset: VITON-HD dataset
-- - You have to edit code in `dataset.py`: self.data_dir = '../dataset/zalando-hd-resized'
+  - Edit code in `dataset.py`: self.data_dir = '../dataset/zalando-hd-resized'
+- Model weight:
+  - Create directory and download parameters of model in directory
 
 ## Attribution map for generated image
 
